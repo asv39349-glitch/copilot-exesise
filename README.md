@@ -35,3 +35,8 @@
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+## GitHub Copilot Space
+Check out the shared context and instructions in the [Copilot Space](https://github.com/copilot/spaces/asv39349-glitch/1).
+
+[![Open Copilot Space](https://img.shields.io/badge/Copilot_Space-Open_Workspace-0969da?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/copilot/spaces/asv39349-glitch/1)
+
