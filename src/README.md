@@ -12,16 +12,17 @@ A super simple FastAPI application that allows students to view and sign up for 
 1. Install the dependencies:
 
    ```
-   pip install fastapi uvicorn
+   python -m pip install -r requirements.txt
    ```
 
-2. Run the application:
+2. From the repository root, start the application:
 
    ```
-   python app.py
+   python -m uvicorn src.app:app --host 0.0.0.0 --port 8000 --reload
    ```
 
 3. Open your browser and go to:
+   - Application: http://localhost:8000/
    - API documentation: http://localhost:8000/docs
    - Alternative documentation: http://localhost:8000/redoc
 
